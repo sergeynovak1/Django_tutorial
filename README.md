@@ -5,4 +5,5 @@
 3. manage.py startapp bboard 
 4. manage.py makemigrations bboard 
 5. manage.py sqlmigrate bboard 0001
-6. manage.py migrate 
+6. manage.py migrate
+7. manage.py shell 
