@@ -7,3 +7,4 @@
 5. manage.py sqlmigrate bboard 0001
 6. manage.py migrate
 7. manage.py shell 
+8. manage . py createsuperuser
